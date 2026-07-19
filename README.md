@@ -12,7 +12,7 @@
 
 </div>
 
-Looking for a software engineering internship. Currently in Semester 3, B.Tech Cybersecurity at Indus University, Ahmedabad.
+Looking for a internship. Currently in Semester 3, B.Tech Cybersecurity at Indus University, Ahmedabad.
 
 ---
 
