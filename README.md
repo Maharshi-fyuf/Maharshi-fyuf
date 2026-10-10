@@ -53,7 +53,11 @@ CASSINI — Top 3, virtual round (Odoo × Indus Hackathon) · CoreInventory, Kri
 ### Recently pushed
 
 <!--START_SECTION:recent-->
-_This list refreshes automatically._
+- **[About_Me](https://github.com/Maharshi-fyuf/About_Me)** · `HTML` · Oct 04, 2026
+- **[SIH26157-Security-Analytics-Terminology-SAT-SA-](https://github.com/Maharshi-fyuf/SIH26157-Security-Analytics-Terminology-SAT-SA-)** · `JavaScript` · Oct 01, 2026
+- **[SIH26127-AI-Engine-Multi-Camera-ANPR](https://github.com/Maharshi-fyuf/SIH26127-AI-Engine-Multi-Camera-ANPR)** · `Python` · Sep 28, 2026
+- **[cyber-focus-coach](https://github.com/Maharshi-fyuf/cyber-focus-coach)** · `JavaScript` · Jul 26, 2026
+- **[macropulse-osint](https://github.com/Maharshi-fyuf/macropulse-osint)** — An AI-powered OSINT dashboard that synthesizes real-time geopolitical news into actionable macro-economic trading perspectives for commodities, forex, and equities. · `TypeScript` · Jul 19, 2026
 <!--END_SECTION:recent-->
 
 ---
