@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F12,100:1F6F5C&height=180&section=header&text=Maharshi%20Khamar&fontSize=42&fontColor=F2F3F5&animation=fadeIn&fontAlignY=40&desc=AI%20/%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=35A98A" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0F12,50:1F6F5C,100:89CFF0&height=180&section=header&text=Maharshi%20Khamar&fontSize=42&fontColor=F2F3F5&animation=fadeIn&fontAlignY=40&desc=AI%20/%20Backend%20Engineer&descAlignY=58&descSize=18&descColor=89CFF0" />
 
 <a href="https://portfolio-steel-phi-8a01txy8ms.vercel.app/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=35A98A&center=true&vCenter=true&width=600&lines=Building+production+AI%2Fbackend+systems;4+live+deployments+%C2%B7+5+hackathons;B.Tech+Cybersecurity+%C2%B7+Indus+University" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=89CFF0&center=true&vCenter=true&width=600&lines=Building+production+AI%2Fbackend+systems;4+live+deployments+%C2%B7+5+hackathons;B.Tech+Cybersecurity+%C2%B7+Indus+University" />
 </a>
 
 <br>
 
 <a href="https://portfolio-steel-phi-8a01txy8ms.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F6F5C?style=for-the-badge&logo=vercel&logoColor=F2F3F5" /></a>
 <a href="https://portfolio-steel-phi-8a01txy8ms.vercel.app/Maharshi_Khamar_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0D0F12?style=for-the-badge&logo=readthedocs&logoColor=35A98A" /></a>
-<a href="mailto:khamarmaharshi@gmail.com"><img src="https://img.shields.io/badge/Email-1F6F5C?style=for-the-badge&logo=gmail&logoColor=F2F3F5" /></a>
-<img src="https://komarev.com/ghpvc/?username=Maharshi-fyuf&label=Profile%20views&color=1F6F5C&style=for-the-badge" />
+<a href="mailto:khamarmaharshi@gmail.com"><img src="https://img.shields.io/badge/Email-89CFF0?style=for-the-badge&logo=gmail&logoColor=0D0F12" /></a>
+<img src="https://komarev.com/ghpvc/?username=Maharshi-fyuf&label=Profile%20views&color=89CFF0&style=for-the-badge" />
 
 </div>
 
@@ -70,13 +70,13 @@ CASSINI — Top 3, virtual round (Odoo × Indus Hackathon) · CoreInventory, Kri
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maharshi-fyuf&show_icons=true&hide_border=false&bg_color=0D0F12&title_color=35A98A&text_color=F2F3F5&icon_color=1F6F5C&border_color=1F6F5C&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maharshi-fyuf&layout=compact&hide_border=false&bg_color=0D0F12&title_color=35A98A&text_color=F2F3F5&border_color=1F6F5C" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Maharshi-fyuf&show_icons=true&hide_border=false&bg_color=0D0F12&title_color=89CFF0&text_color=F2F3F5&icon_color=89CFF0&border_color=89CFF0&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maharshi-fyuf&layout=compact&hide_border=false&bg_color=0D0F12&title_color=89CFF0&text_color=F2F3F5&border_color=89CFF0" />
 
-<img src="https://streak-stats.demolab.com?user=Maharshi-fyuf&background=0D0F12&border=1F6F5C&ring=35A98A&fire=35A98A&currStreakNum=F2F3F5&sideNums=F2F3F5&currStreakLabel=35A98A&sideLabels=35A98A&dates=8B949E" />
+<img src="https://streak-stats.demolab.com?user=Maharshi-fyuf&background=0D0F12&border=89CFF0&ring=89CFF0&fire=35A98A&currStreakNum=F2F3F5&sideNums=F2F3F5&currStreakLabel=89CFF0&sideLabels=35A98A&dates=8B949E" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maharshi-fyuf&bg_color=0D0F12&color=35A98A&line=1F6F5C&point=F2F3F5&area=true&area_color=1F6F5C&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maharshi-fyuf&bg_color=0D0F12&color=89CFF0&line=89CFF0&point=F2F3F5&area=true&area_color=3A7CA5&hide_border=true&radius=8" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6F5C,100:0D0F12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:1F6F5C,100:0D0F12&height=100&section=footer" />
