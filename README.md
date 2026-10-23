@@ -53,11 +53,11 @@ CASSINI — Top 3, virtual round (Odoo × Indus Hackathon) · CoreInventory, Kri
 ### Recently pushed
 
 <!--START_SECTION:recent-->
+- **[portfolio-2](https://github.com/Maharshi-fyuf/portfolio-2)** · `HTML` · Oct 23, 2026
 - **[portfolio](https://github.com/Maharshi-fyuf/portfolio)** · `HTML` · Oct 21, 2026
 - **[nebius-hackathon](https://github.com/Maharshi-fyuf/nebius-hackathon)** · Oct 18, 2026
 - **[About_Me](https://github.com/Maharshi-fyuf/About_Me)** · `HTML` · Oct 04, 2026
 - **[SIH26157-Security-Analytics-Terminology-SAT-SA-](https://github.com/Maharshi-fyuf/SIH26157-Security-Analytics-Terminology-SAT-SA-)** · `JavaScript` · Oct 01, 2026
-- **[SIH26127-AI-Engine-Multi-Camera-ANPR](https://github.com/Maharshi-fyuf/SIH26127-AI-Engine-Multi-Camera-ANPR)** · `Python` · Sep 28, 2026
 <!--END_SECTION:recent-->
 
 ---
